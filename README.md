@@ -56,12 +56,7 @@ loan_approval/
 
 ### Jupyter Notebook
 
-1. Navigate to the `notebooks` directory:
-    ```bash
-    cd notebooks
-    ```
-
-2. Open the Jupyter Notebook:
+Open the Jupyter Notebook:
     ```bash
     jupyter notebook loan_approval.ipynb
     ```
