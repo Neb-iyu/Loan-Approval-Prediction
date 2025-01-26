@@ -3,7 +3,18 @@
 This project aims to predict loan approval using logistic regression. The dataset is preprocessed, cleaned for outliers, and reduced in dimensionality using PCA. The model's performance is evaluated, and the decision boundary is plotted.
 
 ## Project Structure
-loan_approval/ ├── data/ │ └── loan_approval_dataset.csv ├── output/ │ ├── 1.txt │ ├── 2.txt │ └── p01b_1.png ├── src/ │ ├── main.py │ └── util.py ├── notebooks/ │ └── loan_approval.ipynb └── README.md
+loan_approval/ 
+        ├── data/ 
+        |   └── loan_approval_dataset.csv 
+        ├── output/ 
+        |   ├── 1.txt
+        |   ├── 2.txt
+        |   └── p01b_1.png 
+        ├── src/
+        |   ├── main.py
+        |   └── util.py 
+        ├── loan_approval.ipynb 
+        └── README.md
 
 ## Requirements
 
